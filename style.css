@@ -1,0 +1,128 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+ }
+ .main{
+    max-width:800px;
+    margin:auto;
+    margin-top: 5rem;
+    background:#fff;
+    box-shadow: 3px 4px rgba(0,0,0,.1
+    );
+    overflow:hidden;
+
+ }
+  */
+ /* Basic styling for containers */
+
+ /* .container {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } */
+
+  /* Styling for thumbnails */
+  /* .thumbnail {
+    display: inline-block;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+  }
+
+  #colorDropdown{
+    position: relative;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    border-radius: 5px;
+    background: #183153;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    border: none;
+    color: white;
+  } */
+
+  /* Styling for feature image */
+  /* #featureImageContainer {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+  } */
+
+  /* Styling for selected color */
+  /* #featureImage {
+    width: 100%;
+    height: 100%;
+  }
+
+  button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    border-radius: 5px;
+    background: #183153;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    border: none;
+   }
+   
+   button:after {
+    content: " ";
+    width: 0%;
+    height: 100%;
+    background: #FFD401;
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+    right: 0;
+   }
+   
+   button:hover::after {
+    right: auto;
+    left: 0;
+    width: 100%;
+   }
+   
+   button span {
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    padding: 18px 25px;
+    color: #fff;
+    font-size: 1.125em;
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    z-index: 20;
+    transition: all 0.3s ease-in-out;
+   }
+   
+   button:hover span {
+    color: #183153;
+    animation: scaleUp 0.3s ease-in-out;
+   }
+   
+   @keyframes scaleUp {
+    0% {
+     transform: scale(1);
+    }
+   
+    50% {
+     transform: scale(0.95);
+    }
+   
+    100% {
+     transform: scale(1);
+    }
+   } */
+   
